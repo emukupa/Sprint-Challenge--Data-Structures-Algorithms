@@ -79,11 +79,11 @@ For each of the methods associated with each data structure, classify it based o
 ## answers from the pdf
 
     ### Exercise I
-        a. O(n^3)
-        b. O(n)
+        a. O(n)
+        b. O(log(n))
         c. O(log(sqrt(n)))
         d. O(n^2)
-        e. O(n^(n^n))
+        e. O(n^3)
         f. O(n)
         g. O(n)
 
